@@ -12,7 +12,8 @@ Combat-focused VATS perks have largely been reworked, especially those which pre
 Changes:
 - Perks which grant a chance for something to happen now explicitly state the chance.
 - Removed Perks
-  - Removes Strong Back 4 (fast travel while overencumbered).
+  - Removes Strong Back 4 (fast travel while overencumbered), since fast travel is not available in Survival mode.
+  - Removes Moving Target 3 (reduced Action Points drain while sprinting). Its bonuses have been moved to Blitz.
 - Condensed Perks
   - 5-point damage perks (+20/40/60/80/100%) are now 4 points (+25/50/75/100%).
   - 5-point resistance perks (+10/20/30/40/50) are now 4 points, and have been buffed (+25/50/75/100).
@@ -22,7 +23,6 @@ Changes:
   - Concentrated Fire 3 no longer grants increased damage in VATS.
   - Demolition Expert 4 no longer grants increased damage when shooting mines in VATS.
   - Gun Fu no longer grants increased damage in VATS. It now grants reload speed at all ranks.
-  - Moving Target 3 no longer grants reduced Action Points drain. It now grants damage resistance while moving at all ranks.
   - Nuclear Physicist no longer reduces Fusion Core drain. It now scales Radiation Damage by +50/100/150/200%.
   - Quick Hands 2 no longer grants free reloads in VATS. It now grants Action Points at all ranks.
   - Sniper 3 no longer grants VATS headshot chance. It now grants 30% knockdown chance.
