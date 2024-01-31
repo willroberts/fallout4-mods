@@ -21,3 +21,18 @@ Changes:
   - Medic moved from 2 to 3
   - Science moved from 6 to 5
   - VANS moved from 1 to 6
+
+To Do:
+- VATS secondary bonus removal
+  - [PER 5] Demolition Expert 4
+  - [PER 8] Sniper 3 -> Higher knockdown chance
+  - [AGI 8] Quick Hands 2 -> AP
+- VATS rework
+  - Remove mentions in descriptions for PER, AGI, LCK
+  - [PER 7] Awareness
+  - [PER 9] Penetrator
+  - [PER 10] Concentrated Fire
+  - [AGI 9] Blitz -> Sprinting Cost
+  - [AGI 10] Gun Fu -> Reload Speed
+  - [INT 6] VANS
+  - Complete LCK rework -> Magic Find instead of Criticals
