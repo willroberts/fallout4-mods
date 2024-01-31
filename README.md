@@ -23,7 +23,7 @@ Changes:
   - Concentrated Fire 3 no longer grants increased damage in VATS.
   - Demolition Expert 4 no longer grants increased damage when shooting mines in VATS.
   - Gun Fu no longer grants increased damage in VATS. It now grants reload speed at all ranks.
-  - Life Giver now grants 25 Health per rank, and has 4 ranks. The 4th rank also grants 1% Health regen when out of combat.
+  - Life Giver now grants 25 Health per rank (up from 20), and has 4 ranks. The 4th rank also grants 1% Health regen when out of combat.
   - Nuclear Physicist no longer reduces Fusion Core drain. It now scales Radiation Damage by +50/100/150/200%.
   - Quick Hands 2 no longer grants free reloads in VATS. It now grants Action Points at all ranks.
   - Sniper 3 no longer grants VATS headshot chance. It now grants 30% knockdown chance.
