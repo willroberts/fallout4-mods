@@ -11,6 +11,11 @@ Changes:
 - 5-point damage perks (+20/40/60/80/100%) are now 4 points (+25/50/75/100%).
 - 5-point armor perks (+10/20/30/40/50) are now 4 points, and have been buffed (+25/50/75/100).
 - Nuclear Physicist no longer reduces Fusion Core drain. It now scales Radiation Damage by +50/100/150/200%.
+- Quick Hands now grants Action Points at all ranks.
+- Blitz now grants reduced Action Points drain at all ranks.
+- Gun Fu now grants reload speed at all ranks.
+- Sniper 3 no longer grants VATS headshot chance. It now grants 30% knockdown chance.
+- Demolition Expert 4 no longer grants double damage when shooting mines in VATS.
 - Perks which grant a chance for something to happen now explicitly state the chance.
 - Changed the order of Persuasion perks:
   - Refractor moved from 7 to 3
@@ -23,16 +28,9 @@ Changes:
   - VANS moved from 1 to 6
 
 To Do:
-- VATS secondary bonus removal
-  - [PER 5] Demolition Expert 4
-  - [PER 8] Sniper 3 -> Higher knockdown chance
-  - [AGI 8] Quick Hands 2 -> AP
 - VATS rework
-  - Remove mentions in descriptions for PER, AGI, LCK
   - [PER 7] Awareness
   - [PER 9] Penetrator
   - [PER 10] Concentrated Fire
-  - [AGI 9] Blitz -> Sprinting Cost
-  - [AGI 10] Gun Fu -> Reload Speed
   - [INT 6] VANS
   - Complete LCK rework -> Magic Find instead of Criticals
