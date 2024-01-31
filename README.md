@@ -8,8 +8,9 @@ This mod tweaks the Perk system to streamline it for Survival mode. It removes s
 
 Changes:
 - Removes Strong Back 4 (fast travel while overencumbered).
-- 5-point damage perks (+20/40/60/80/100%) are now 4 points (25/50/75/100%).
+- 5-point damage perks (+20/40/60/80/100%) are now 4 points (+25/50/75/100%).
 - 5-point armor perks (+10/20/30/40/50) are now 4 points, and have been buffed (+25/50/75/100).
+- Nuclear Physicist no longer reduces Fusion Core drain. It now scales Radiation Damage by +50/100/150/200%.
 - Perks which grant a chance for something to happen now explicitly state the chance.
 - Changed the order of Persuasion perks:
   - Refractor moved from 7 to 3
