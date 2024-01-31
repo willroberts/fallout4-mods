@@ -28,7 +28,7 @@ Changes:
   - Quick Hands 2 no longer grants free reloads in VATS. It now grants Action Points at all ranks.
   - Sniper 3 no longer grants VATS headshot chance. It now grants 30% knockdown chance.
 - Reordered Perks
-  - Changed the order of Persuasion perks, prioritizing defenses at lower ranks:
+  - Changed the order of Perception perks, prioritizing defenses at lower ranks:
     - Refractor moved from 7 to 3
     - Sniper moved from 8 to 7
     - Awareness moved from 3 to 8
