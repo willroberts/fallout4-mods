@@ -24,6 +24,7 @@ Changes:
   - Blitz no longer grants teleporting in VATS. It now grants reduced Action Points drain while sprinting at all ranks.
   - Concentrated Fire 3 no longer grants increased damage in VATS.
   - Demolition Expert 4 no longer grants increased damage when shooting mines in VATS.
+  - Grim Reaper's Sprint now grants +5/10/15% chance to refill AP (down from +15/25/35%). It no longer refills the critical meter.
   - Gun Fu no longer grants increased damage in VATS. It now grants reload speed at all ranks.
   - Life Giver now grants 25 Health per rank (up from 20), and has 4 ranks. The 4th rank also grants 1% Health regen when out of combat.
   - Mysterious Stranger no longer refillts the critical meter.
@@ -60,6 +61,6 @@ Current order:
 - 5: Idiot Savant (XP) = 5
 - 6: Mysterious Stranger (VATS) = 4
 - 7: Better Criticals (Damage) = 6
-- 8: Grim Reaper's Sprint (AP) = 8 <-- reduce chances, remove crit refill from rank 3
+- 8: Grim Reaper's Sprint (AP) = 8
 - 9: Four Leaf Clover (Refill) = 9 <-- reduce chances, remove rank 4
 - 10: Critical Banker (Crits) = 7 <-- remove ranks 3 and 4
