@@ -20,6 +20,7 @@ Changes:
   - 5-point resistance perks (+10/20/30/40/50) are now 4 points, and have been buffed (+25/50/75/100).
 - Modified Perks
   - Awareness 2 no longer grants increased damage in VATS.
+  - Better Criticals now grants +25/50% extra damage (down from +50/100/150%).
   - Blitz no longer grants teleporting in VATS. It now grants reduced Action Points drain while sprinting at all ranks.
   - Concentrated Fire 3 no longer grants increased damage in VATS.
   - Demolition Expert 4 no longer grants increased damage when shooting mines in VATS.
@@ -58,7 +59,7 @@ Current order:
 - 4: Ricochet = 10
 - 5: Idiot Savant (XP) = 5
 - 6: Mysterious Stranger (VATS) = 4
-- 7: Better Criticals (Damage) = 6 <-- nerf multipliers, remove rank 3
+- 7: Better Criticals (Damage) = 6
 - 8: Grim Reaper's Sprint (AP) = 8 <-- reduce chances, remove crit refill from rank 3
 - 9: Four Leaf Clover (Refill) = 9 <-- reduce chances, remove rank 4
 - 10: Critical Banker (Crits) = 7 <-- remove ranks 3 and 4
