@@ -64,4 +64,4 @@ Current order:
 - 7: Better Criticals (Damage) = 6
 - 8: Grim Reaper's Sprint (AP) = 8
 - 9: Four Leaf Clover (Refill) = 9
-- 10: Critical Banker (Crits) = 7 <-- remove ranks 3 and 4
+- 10: Critical Banker (Crits) = 7
