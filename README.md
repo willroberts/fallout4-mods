@@ -51,17 +51,8 @@ Changes:
     - Moving Target moved from 6 to 8
     - Mister Sandman moved from 4 to 9
     - Ninja moved from 7 to 10
-
-To Do:
-- Luck rework
-Current order:
-- 1: Fortune Finder (Caps) = 1
-- 2: Scrounger (Ammo) = 2
-- 3: Bloody Mess (Damage) = 3
-- 4: Ricochet = 10
-- 5: Idiot Savant (XP) = 5
-- 6: Mysterious Stranger (VATS) = 4
-- 7: Better Criticals (Damage) = 6
-- 8: Grim Reaper's Sprint (AP) = 8
-- 9: Four Leaf Clover (Refill) = 9
-- 10: Critical Banker (Crits) = 7
+  - Changed the order of Luck perks, making Critical builds require more investment:
+    - Ricochet moved from 10 to 4
+    - Mysterious Stranger moved from 4 to 6
+    - Better Criticals moved from 6 to 7
+    - Critical Banker moved from 7 to 10
