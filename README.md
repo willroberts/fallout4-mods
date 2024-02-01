@@ -25,6 +25,7 @@ Changes:
   - Demolition Expert 4 no longer grants increased damage when shooting mines in VATS.
   - Gun Fu no longer grants increased damage in VATS. It now grants reload speed at all ranks.
   - Life Giver now grants 25 Health per rank (up from 20), and has 4 ranks. The 4th rank also grants 1% Health regen when out of combat.
+  - Mysterious Stranger no longer refillts the critical meter.
   - Nuclear Physicist no longer reduces Fusion Core drain. It now scales Radiation Damage by +50/100/150/200%.
   - Quick Hands 2 no longer grants free reloads in VATS. It now grants Action Points at all ranks.
   - Sniper 3 no longer grants VATS headshot chance. It now grants 30% knockdown chance.
@@ -56,7 +57,7 @@ Current order:
 - 3: Bloody Mess (Damage) = 3
 - 4: Ricochet = 10
 - 5: Idiot Savant (XP) = 5
-- 6: Mysterious Stranger (VATS) = 4 <-- remove critical meter bonuses
+- 6: Mysterious Stranger (VATS) = 4
 - 7: Better Criticals (Damage) = 6 <-- nerf multipliers, remove rank 3
 - 8: Grim Reaper's Sprint (AP) = 8 <-- reduce chances, remove crit refill from rank 3
 - 9: Four Leaf Clover (Refill) = 9 <-- reduce chances, remove rank 4
